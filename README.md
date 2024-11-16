@@ -14,7 +14,7 @@ The application allows users to store and manage personal data, such as names an
 - **Database**: MongoDB.
 
 ## How to Run
-1. Clone the repository: git clone https://github.com/your-repository-name cd registerdatabase
+1. Clone the repository: git clone https://github.com/Juhok1/registerdatabase2.git cd registerdatabase
 2.  Install dependencies: npm install
 3.  Start the application: node app.js
 4.  Open your browser and navigate to `http://localhost:3000`.
